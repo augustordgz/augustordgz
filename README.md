@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hola! Soy Augusto Rodriguez
 
-<!--
-**augustordgz/augustordgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de Software Trainee, actualmente formándome en la Universidad Tecnológica Nacional y construyendo proyectos para crecer profesionalmente en el mundo IT.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+🔭 Actualmente desarrollando proyectos personales y fortaleciendo mis habilidades en desarrollo de software.
+📘 Estudiando Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional (UTN).  
+👯 Busco colaborar en proyectos interesantes que me permitan aprender y aportar valor.
+⚡ Interesado en el desarrollo backend, frontend y aplicaciones con interfaz gráfica.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- 💻 Lenguajes: Python | Java | JavaScript  
+- 🌐 Web: HTML | CSS  
+- 🗄️ Bases de datos: SQL | MongoDB  
+- ⚙️ Herramientas: Git | GitHub  
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Arquitectura de software y buenas prácticas.
+- Desarrollo de aplicaciones completas (full stack).  
+- Mejora de la lógica y estructuras de datos.
+- Alojamiento de servidores en la nube AWS.
+
+---
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/augusto-martin-rodriguez-cardozo-247149245/)
+- Email: augustom.rodriguezc@hotmail.com
+
+---
+
+⭐ *Siempre buscando aprender, mejorar y enfrentar nuevos desafíos en el desarrollo de software.*
