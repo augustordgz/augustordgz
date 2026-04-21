@@ -6,10 +6,10 @@
 
 ## 🚀 Sobre mí
 
-🔭 Actualmente desarrollando proyectos personales y fortaleciendo mis habilidades en desarrollo de software.
-📘 Estudiando Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional (UTN).  
-👯 Busco colaborar en proyectos interesantes que me permitan aprender y aportar valor.
-⚡ Interesado en el desarrollo backend, frontend y aplicaciones con interfaz gráfica.
+-🔭 Actualmente desarrollando proyectos personales y fortaleciendo mis habilidades en desarrollo de software.   
+-📘 Estudiando Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional (UTN).    
+-👯 Busco colaborar en proyectos interesantes que me permitan aprender y aportar valor.    
+-⚡ Interesado en el desarrollo backend, frontend y aplicaciones con interfaz gráfica.    
 
 ---
 
@@ -27,7 +27,7 @@
 - Arquitectura de software y buenas prácticas.
 - Desarrollo de aplicaciones completas (full stack).  
 - Mejora de la lógica y estructuras de datos.
-- Alojamiento de servidores en la nube AWS.
+- Cloud computing con AWS.
 
 ---
 
