@@ -1,6 +1,6 @@
 # 👋 Hola! Soy Augusto Rodriguez
 
-💻 Desarrollador de Software Trainee, actualmente formándome en la Universidad Tecnológica Nacional y construyendo proyectos para crecer profesionalmente en el mundo IT.
+💻 Desarrollador de Software, actualmente formándome en la Universidad Tecnológica Nacional y construyendo proyectos para crecer profesionalmente en el mundo IT.
 
 ---
 
@@ -16,9 +16,11 @@
 ## 🛠️ Tecnologías y herramientas
 
 - 💻 Lenguajes: Python | Java | JavaScript  
-- 🌐 Web: HTML | CSS  
-- 🗄️ Bases de datos: SQL | MongoDB  
-- ⚙️ Herramientas: Git | GitHub  
+- 🌐 Web: HTML | CSS | Bootstrap
+- ⚙️ Backend: Node.js | Express.js
+- 🗄️ Bases de datos: MySQL | MongoDB  
+- 🛠️ Herramientas: Git | GitHub | Postman | npm 
+- 🧰 Otros: APIs REST | MVC | JSON 
 
 ---
 
